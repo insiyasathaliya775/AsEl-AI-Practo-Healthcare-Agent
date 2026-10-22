@@ -1,0 +1,13 @@
+
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pytest
+httpx
